@@ -13,8 +13,9 @@ End to End Project Implementation
     3. Data Transformation
     4. Model Training
     5. Model Evaluation
+    6. Model Explanantion
 9. Training Pipeline
-10. Prediction Pipeline
+10. Prediction+Explanantion Pipeline
 11. User App Implementation
 12. Documentation
 13. Deployment of AWS
@@ -33,4 +34,5 @@ Tech Stack:
     4. pyyaml
     5. Flask - UI/API Implementation
     6. AWS - Deployment
+    7. LIME
     
