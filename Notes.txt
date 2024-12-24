@@ -1,0 +1,36 @@
+End to End Project Implementation
+
+1. Inroduction
+2. Github Repository Setup
+3. Project Template Creation
+4. Project Setup
+5. Logging, Exception and Utility
+6. Project Workflows
+7. Notebook Experiments
+8. Component Implementation
+    1. Data Ingestion
+    2. Data Validation
+    3. Data Transformation
+    4. Model Training
+    5. Model Evaluation
+9. Training Pipeline
+10. Prediction Pipeline
+11. User App Implementation
+12. Documentation
+13. Deployment of AWS
+
+
+Pre-requisites of Project
+    1. Python Programming - OOPs
+    2. Machine Learning
+    3. AWS Account
+    4. System Configuration
+
+Tech Stack:
+    1. Pandas
+    2. Sklearn
+    3. Matplotlib/Seaborn
+    4. pyyaml
+    5. Flask - UI/API Implementation
+    6. AWS - Deployment
+    
